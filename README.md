@@ -6,8 +6,6 @@
 - Redis, for Celery
 - Sendgrid, for e-mail sending
 
-This is a good starting point for modern Python/JavaScript web projects.
-
 ## Project bootstrap
 - [ ] Make sure you have Python 3.8 installed
 - [ ] Install Django with `pip install django`, to have the `django-admin` command available.
